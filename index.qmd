@@ -9,31 +9,26 @@ about:
 
 :::{#hero-heading}
 
-## Education
-
-* BS Economics | [Depauw University](https://www.depauw.edu/) | Greencastle, IN
-* MS Higher Education Administration | [Indiana University](https://www.iu.edu/index.html) | Bloomington, IN
-
-## Experience
-
-* [Compass](https://www.compass.com/agents/elizabeth-donaldson/) | Real Estate Broker
-* [Alpha Chi Omega Foundation, Inc.](https://www.alphachiomega.org/foundation) | Foundation Director
-
-
 :::
 
-# Here's some dummy text
-Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim
-labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi
-anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est
-aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud
-officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat
-reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia
-voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt
-duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt
-velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est
-culpa et culpa duis.
+# About Elizabeth
 
-[let's make a link](https://www.google.com){.lipstick}
+Elizabeth has lived in the Pacific Northwest for 13 years and is passionate
+about helping clients in the Greater Seattle area navigate a competitive real
+estate market. Originally from Dallas, TX, Elizabeth has a bachelor's degree in
+Economics from DePauw University and a master's degree in Higher Education
+Administration from Indiana University.
 
+For 20 years, Elizabeth worked in non-profit settings related to higher
+education.  Her experience in donor cultivation, endowments, board management
+and multi-million dollar fundraising campaigns provides her with a unique set
+of skills in working with her real estate clients. She is committed to
+providing the highest level of customer service and is always willing to go the
+extra mile to ensure clients have the best possible experience.  Her problem
+solving nature, detail-oriented approach and enthusiasm for real estate have
+earned her the trust of clients.
+
+Elizabeth resides in Mercer Island with her husband, Justin and their son,
+James.  Whether buying or selling, she looks forward to helping many more
+clients make important life moves!
 
