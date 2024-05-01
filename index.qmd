@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About Elizabeth"
 image: "images/elizabeth.jpg"
 about:
   id: hero-heading
@@ -10,8 +10,6 @@ about:
 :::{#hero-heading}
 
 :::
-
-# About Elizabeth
 
 Elizabeth has lived in the Pacific Northwest for 13 years and is passionate
 about helping clients in the Greater Seattle area navigate a competitive real
