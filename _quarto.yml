@@ -8,8 +8,6 @@ number-sections: false
 format:
   html:
     theme: Lux
-    # linkcolor: LightCoral
-    linkcolor: DarkTurquoise
     css: style.css
     # page-layout: full
 
