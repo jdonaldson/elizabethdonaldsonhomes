@@ -39,7 +39,7 @@ website:
         href: https://www.linkedin.com/in/elizabeth-donaldson-71a9a051/
         aria-label: Linkedin
 
-  # google-analytics: "G-J1DD0F3VY9"
+  google-analytics: "G-113GHEL4QB"
 
 execute:
   freeze: auto
