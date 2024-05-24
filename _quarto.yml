@@ -7,17 +7,15 @@ number-sections: false
 
 format:
   html:
-    theme: Lux
+    theme: lux
     css: style.css
     # page-layout: full
 
 website:
   favicon: "images/elizabeth.jpg"
   site-url: "https://www.elizabethdonaldson.com"
-  # twitter-card:
-  #   site: "@omgjjd"
-  #   card-style: "summary_large_image"
-  # image : "images/noisy.jpeg"
+  twitter-card: true
+  image : "images/elizabeth.jpg"
   open-graph: true
   title: "Elizabeth Donaldson Homes"
   navbar:
