@@ -5,6 +5,9 @@ about:
   id: hero-heading
   template: jolla
   image-width: 30em
+execute:
+  echo: false
+jupyter: python3
 ---
 
 :::{#hero-heading}
