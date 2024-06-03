@@ -22,7 +22,8 @@ website:
     logo : "images/elizabeth.jpg"
     left:
       - index.qmd
-      - pulse.qmd
+      - pulse.ipynb
+      - testimonials.qmd
     right:
       - icon : compass
         href : https://www.compass.com/agents/elizabeth-donaldson/
