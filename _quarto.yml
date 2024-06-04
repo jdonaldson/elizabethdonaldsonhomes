@@ -46,4 +46,3 @@ execute:
 
 resources:
   - CNAME
-  - iframe_figures
