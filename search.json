@@ -2,14 +2,21 @@
   {
     "objectID": "pulse.html",
     "href": "pulse.html",
-    "title": "Seattle Housing Inventory",
+    "title": "Seattle Pulse",
     "section": "",
-    "text": "The following shows the total home inventory available in the Seattle Metro region over the last few years."
+    "text": "The Seattle housing market is highly competitive, and full of ups and downs. I track the status of housing inventory and average days-on-market in order to inform pricing strategy. It’s also helpful to compare Seattle trends to other similar housing markets like Portland and San Francisco, as well as to national averages."
+  },
+  {
+    "objectID": "pulse.html#seattle-housing-inventory",
+    "href": "pulse.html#seattle-housing-inventory",
+    "title": "Seattle Pulse",
+    "section": "Seattle Housing Inventory",
+    "text": "Seattle Housing Inventory\nThe following shows the total home inventory available in the Seattle Metro region over the last few years."
   },
   {
     "objectID": "pulse.html#days-on-market",
     "href": "pulse.html#days-on-market",
-    "title": "Seattle Housing Inventory",
+    "title": "Seattle Pulse",
     "section": "Days on Market",
     "text": "Days on Market\nThe following shows the average days on market in the Seattle Metro region over the last few years."
   },
