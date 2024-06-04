@@ -34,7 +34,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v3
 
-      - run: pip3 install jupyter matplotlib pandas
+      - run: pip3 install jupyter matplotlib pandas plotly
 
       # From https://github.com/r-lib/actions/tree/v2-branch/setup-r
       # - name: Setup R
