@@ -1,6 +1,7 @@
 ---
 title: "About Elizabeth"
 image: "images/elizabeth.jpg"
+description: "The website of Elizabeth Donaldson, Seattle-area real estate broker"
 about:
   id: hero-heading
   template: jolla
